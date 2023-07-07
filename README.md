@@ -24,7 +24,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 #
 
 ## 🧑‍💻 Sofware Knowledge
-
+<br>
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />   
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Designer" width="40px" style="padding-right:10px; padding"src="substance-designer.svg" />
