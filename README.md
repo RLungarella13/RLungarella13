@@ -1,6 +1,8 @@
 # 👋 Raffaele Lungarella
 
+~~~
 Digital Craftsman (Developer, Designer)
+~~~
 
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
