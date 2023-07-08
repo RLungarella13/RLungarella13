@@ -39,7 +39,9 @@ I'm a student who has a deep passion for blending programming with art and desig
 ---
 
 ## ***Some of my projects***
-### <img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="Flatmate/flatmateLogo.png" />  **Flatmate**
+<details>
+<summary><h3><img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="Flatmate/flatmateLogo.png" />  Flatmate</h3></summary>
+
 >Flatmate is a mobile application that allows you to manage the expenses of a shared apartment. It is possible to create a group, add expenses and view statistics on the expenses of the group. The application is developed in SwiftUI and uses Firebase as a database. The application is developed only for iOS.
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/ListExpenses.png" /> 
@@ -49,5 +51,4 @@ I'm a student who has a deep passion for blending programming with art and desig
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Tasks.png" /> 
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Expense.png" /> 
-
 
