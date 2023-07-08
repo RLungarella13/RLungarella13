@@ -1,4 +1,5 @@
-# 🤌 Raffaele Lungarella
+# 🤌 Raffaele Lungarella<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><a href='https://lungarella.artstation.com'><img alt="Linkedin" style="padding-left:10px"  width="32px" src="artstation.svg" />
+          
 
 ~~~
 Digital Craftsman (Developer, Designer)
@@ -37,7 +38,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 ---
 
-## ***Some of my projects***
+## ***Some of my Coding Projects***
 <details>
 <summary><h3><img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="Flatmate/flatmateLogo.png" />  Flatmate</h3></summary>
 
