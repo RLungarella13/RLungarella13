@@ -34,9 +34,11 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 <br>
 
-## 💼 ***Some of my projects***
-### **Flatmate**
-Flatmate is a mobile application that allows you to manage the expenses of a shared apartment. It is possible to create a group, add expenses and view statistics on the expenses of the group. The application is developed in SwiftUI and uses Firebase as a database. The application is developed only for iOS.
+---
+
+## ***Some of my projects***
+### <img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="Flatmate/flatmateLogo.png" />  **Flatmate**
+>Flatmate is a mobile application that allows you to manage the expenses of a shared apartment. It is possible to create a group, add expenses and view statistics on the expenses of the group. The application is developed in SwiftUI and uses Firebase as a database. The application is developed only for iOS.
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/ListExpenses.png" /> 
 
