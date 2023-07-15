@@ -54,6 +54,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Expense.png" /> 
 </details>
 <details>
-<summary><h3><img align="left" alt="Flatmate" width='25px' style="filter: invert(); padding-right:5px;" src="nanny_logo.svg" />  Better Call Nanny</h3></summary>
+<summary><h3><img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="nanny_logo.svg" />  Better Call Nanny</h3></summary>
 </details>
 
