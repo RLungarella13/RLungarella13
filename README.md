@@ -52,20 +52,11 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Expense.png" /> 
 </details>
+
 <details>
 <summary><h3><img align="left" alt="Flatmate" width='25px' style="padding-right:5px;" src="Better-Call-Nanny/nanny_logo.svg" />  Better Call Nanny</h3></summary>
 
 >Better Call Nanny was a website developed by a team of four university students, including myself. The objective of the project was to create a user-friendly platform for scheduling and booking babysitters. To build the site, we utilized HTML, CSS, and JavaScript, making sure to adhere to the project's limitations by not incorporating any external libraries or APIs. For the database, we implemented PostgreSQL.
-
-Some site snippets.
-
-<img align="left" alt="Flatmate" width='250px' style="padding-right:10px; padding-bottom: 10px;" src="Better-Call-Nanny/homepage.png" />  
-
-<img align="left" alt="Flatmate" width='250px' style="padding-right:10px; padding-bottom: 10px;" src="Better-Call-Nanny/registrazione.png" /> 
-
-<img align="left" alt="Flatmate" width='250px' style="padding-right:10px;" src="Better-Call-Nanny/ricerca.png" /> 
-
-<img align="left" alt="Flatmate" width='250px' style="padding-right:10px;" src="Better-Call-Nanny/sezione-prenotazioni.png" /> 
 
 </details>
 
