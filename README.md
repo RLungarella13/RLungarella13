@@ -45,8 +45,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 >Flatmate is a mobile application that allows you to manage the expenses of a shared apartment. It is possible to create a group, add expenses and view statistics on the expenses of the group. The application is developed in SwiftUI and uses Firebase as a database. The application is developed only for iOS.
 
 
-</details>
-
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/ListExpenses.png" /> 
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Notes.png" /> 
@@ -54,7 +52,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Tasks.png" /> 
 
 <img align="left" alt="Flatmate" width='130px' style="padding-right:10px;" src="Flatmate/Expense.png" /> 
-
+</details>
 <details>
 <summary><h3><img align="left" alt="Flatmate" width='25px' style="filter: invert(); padding-right:5px;" src="nanny_logo.svg" />  Better Call Nanny</h3></summary>
 </details>
