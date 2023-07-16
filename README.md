@@ -38,7 +38,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 ---
 
 ![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
-
-![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=FFFFFF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
 
 
