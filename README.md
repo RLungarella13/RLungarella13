@@ -11,10 +11,11 @@ I'm a student who has a deep passion for blending programming with art and desig
 ## Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php,c,latex,unreal,blender,ps)](https://skillicons.dev)
 
-## Portfolio 📁
+## Websites 👾
 
-<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarella.artstation.com'><img alt="Artstation" height="35px" style="padding-left:10px;" src="artstation_badge.svg" />
-<a href='https://www.fiverr.com/lung13?public_mode=true'><img alt='fiverr' style="padding-left:10px;" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35px" >
+<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarella.artstation.com'><img alt="Artstation" 
+style="padding-left:20px;" height="35px" src="artstation_badge.svg" />
+<a href='https://www.fiverr.com/lung13?public_mode=true'><img alt='fiverr' style="padding-left:20px;" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35px" >
 </a>
 
 ---
