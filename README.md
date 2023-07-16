@@ -11,7 +11,7 @@ Digital Craftsman (Developer, Designer)
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php,c,latex,unreal,blender,ps)](https://skillicons.dev)
 ### 🛠️ Developer Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-left:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
