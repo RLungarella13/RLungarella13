@@ -8,8 +8,9 @@ Digital Craftsman (Developer, Designer)
 
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
+
 <a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img align='right' alt="Linkedin" height="100px" style="padding-left:10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarella.artstation.com'><img alt="Linkedin" align='right' style="padding-left:10px"  width="32px" src="artstation.svg" />
-          
+
           
 ---
 
