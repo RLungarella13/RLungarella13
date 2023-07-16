@@ -35,7 +35,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 <img align="left" alt="Painter" width="30px" style="padding-right:10px;" src="substance-painter.svg" />  
 <br />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLungarella13&layout=donut)](https://github.com/RLungarella13/github-readme-stats)
 
 
 
