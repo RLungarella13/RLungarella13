@@ -1,4 +1,4 @@
-# 🤌 Raffaele Lungarella<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img align='right' alt="Linkedin" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><a href='https://lungarella.artstation.com'><img alt="Linkedin" align='right' style="padding-left:10px"  width="32px" src="artstation.svg" />
+# Raffaele Lungarella 🤌 <a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img align='right' alt="Linkedin" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><a href='https://lungarella.artstation.com'><img alt="Linkedin" align='right' style="padding-left:10px"  width="32px" src="artstation.svg" />
           
 
 ~~~
