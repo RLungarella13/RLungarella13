@@ -37,5 +37,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 ---
 
+[![Top Langs](https://github-readme-stats-one-xi-80.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
