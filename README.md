@@ -11,7 +11,7 @@ Digital Craftsman (Developer, Designer)
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ### 🛠️ Developer Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-left:10px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
@@ -40,13 +40,3 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 ![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
 ![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
