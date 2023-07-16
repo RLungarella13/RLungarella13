@@ -8,15 +8,12 @@ Digital Craftsman (Developer, Designer)
 
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
-<div align="center">
-
-#### Check Out
-<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarella.artstation.com'><img alt="Artstation" height="35px" style="padding-left:10px;" src="artstation_badge.svg" />
-
-</div>
-
-## 🛠️ Tools
+## Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php,c,latex,unreal,blender,ps)](https://skillicons.dev)
+
+## Portfolio 📁
+
+<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarella.artstation.com'><img alt="Artstation" height="35px" style="padding-left:10px;" src="artstation_badge.svg" />
 
 ---
 
