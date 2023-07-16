@@ -15,8 +15,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 ### 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php,c,latex,unreal,blender,ps)](https://skillicons.dev)
 
-<br>
-
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
