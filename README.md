@@ -12,7 +12,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,python,git,postgresql,java,php,c,latex,unreal,blender,ps)](https://skillicons.dev)
 
 ---
