@@ -42,4 +42,11 @@ I'm a student who has a deep passion for blending programming with art and desig
 ![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
