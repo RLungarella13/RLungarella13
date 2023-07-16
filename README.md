@@ -35,6 +35,10 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400) 
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RLungarella13&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RLungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400) 
 
 
