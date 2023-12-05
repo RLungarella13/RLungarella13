@@ -21,4 +21,4 @@ style="padding-left:20px;" height="35px" src="artstation_badge.svg" />
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
-![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
+![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=12&layout=compact&cache_seconds=86400)
