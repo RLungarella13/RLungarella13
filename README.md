@@ -11,13 +11,6 @@ I'm a student who has a deep passion for blending programming with art and desig
 ## Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nuxt,vue,typescript,tailwindcss,sass,swift,python,git,github,postgresql,java,php,c,bash,latex,md,unreal,unity,blender,ps)](https://skillicons.dev)
 
-## Websites 👾
-
-<a href='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'><img alt="Linkedin" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a href='https://lungarellaraffaele.artstation.com/'><img alt="Artstation" 
-style="padding-left:20px;" height="35px" src="artstation_badge.svg" />
-<a href='https://www.fiverr.com/lung13?public_mode=true'><img alt='fiverr' style="padding-left:20px;" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35px" >
-</a>
-
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
