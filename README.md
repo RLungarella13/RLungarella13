@@ -9,7 +9,12 @@ Digital Craftsman (Developer, Designer)
 I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
 
 ## Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nuxt,vue,typescript,tailwindcss,sass,swift,python,git,github,postgresql,java,php,c,bash,latex,md,unreal,unity,blender,ps)](https://skillicons.dev)
+### WEB DEVELOPMENT
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nuxt,vue,typescript,tailwindcss,sass,)](https://skillicons.dev)
+### GAME DEVELOPMENT
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,blender,ps)](https://skillicons.dev)
+### MISCELLANEUS
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,postgresql,vim)](https://skillicons.dev)
 
 ---
 
