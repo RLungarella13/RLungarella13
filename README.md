@@ -18,5 +18,5 @@ Currently working at IBM-CIC
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
-![](https://github-readme-stats-rlungarella13.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=12&layout=compact&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api?username=lungarella-raffaele&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&title_color=8957E5FF&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
+![](https://github-readme-stats-lungarella-raffaele.vercel.app/api/top-langs/?username=rlungarella13&show_icons=true&icon_color=805AD5&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=12&layout=compact&hide=swift,php&cache_seconds=86400)
