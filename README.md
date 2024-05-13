@@ -6,7 +6,7 @@ Digital Craftsman (Developer, Designer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8957E5FF&center=true&vCenter=false&width=1000&lines=Ciao++👋,+I+am+Raffaele+Lungarella;+Check+out+my+Profile!;)](https://git.io/typing-svg)
 
-I'm a student who has a deep passion for blending programming with art and design. Front-end development holds a special place in my heart, but I also enjoy diving into back-end programming. Right now, I don't have a specific path in mind—I'm simply eager to experiment and soak up as much knowledge as I can.
+Currently working at IBM-CIC
 
 ## Tools 🛠️
 ### WEB DEVELOPMENT
