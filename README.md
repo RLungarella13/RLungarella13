@@ -10,7 +10,7 @@ I'm a student who has a deep passion for blending programming with art and desig
 
 ## Tools 🛠️
 ### WEB DEVELOPMENT
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nuxt,vue,typescript,tailwindcss,sass,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,nuxt,vue,typescript,tailwindcss,sass,)](https://skillicons.dev)
 ### GAME DEVELOPMENT
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,blender,ps)](https://skillicons.dev)
 ### MISCELLANEUS
