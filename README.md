@@ -1,5 +1,3 @@
-# Raffaele Lungarella 🤌 
-
 ~~~
 Digital Craftsman (Developer, Designer)
 ~~~
