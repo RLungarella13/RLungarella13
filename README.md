@@ -8,7 +8,7 @@ Currently working at IBM-CIC
 
 ## Tools 🛠️
 ### WEB DEVELOPMENT
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,nuxt,vue,typescript,tailwindcss,sass,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,typescript)](https://skillicons.dev)
 ### GAME DEVELOPMENT
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,blender,ps)](https://skillicons.dev)
 ### MISCELLANEUS
